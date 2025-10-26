@@ -1,0 +1,19 @@
+Reference,Value,Footprint,Qty,jlcpcb part no,basic?,,,,
+"C1,C4",47n,Capacitor_SMD:C_0603_1608Metric,2,C1622,y,,,,
+C2,100p,Capacitor_SMD:C_0603_1608Metric,1,C14858,y,,,,
+"C3,C5",1u,Capacitor_SMD:C_0603_1608Metric,2,C15849,y,,,,
+"C6,C10,C12",100u,Capacitor_SMD:CP_Elec_5x5.4,3,C22469986,,,,,
+"C7,C8,C9,C11,C14,C15,C16",100n,Capacitor_SMD:C_0603_1608Metric,7,C14663,y,,,,
+C13,10u,Capacitor_SMD:CP_Elec_5x5.4,1,C189262,,,,,
+"D1,D2",1N4148,Diode_SMD:D_SOD-123,2,C81598,y,,,,
+D4,1N5819,Diode_SMD:D_SOD-323,1,C191023,y,,,,
+"R1,R2,R8,R9",2M,Resistor_SMD:R_0603_1608Metric,4,C22976,y,(thick film),,C326730,1M thin film
+"R3,R17,R18",1K,Resistor_SMD:R_0603_1608Metric,3,C21190,y,(thick film),,C110776,thin film
+"R4,R6,R10,R11,R15,R16,R19",24K,Resistor_SMD:R_0603_1608Metric,5,C23352,y,(thick film),,C326729,thin film
+"R5,R13,R14",4K7,Resistor_SMD:R_0603_1608Metric,3,C23162,y,(thick film),,C513565,thin film
+"R7,R12",100K,Resistor_SMD:R_0603_1608Metric,2,C22936,y,(thick film),,C122538,thin film
+R20,75R,Resistor_SMD:R_0603_1608Metric,1,C4275,y,(thick film),,,
+U1,TL074,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,1,C12594,,,,,
+U2,TL072,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,1,C6961,y,,,,
+U3,L78L05,Package_TO_SOT_SMD:SOT-89-3,1,C42738,,,,,
+U4,ICL7660SIBAZ,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,1,C7535,,,,,
